@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/f5/25/ac/f525ac573c107b9cd337136af50ca2f3.jpg");
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+.form{
+    width: 100%;
+    max-width: 450px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    background: #fff;
+    padding:45px;
+    transform: translate(-50%,-50%);
+}
+.form input{
+    font-family: "Roboto" , sans-serif;
+    outline:1;
+    background: #f2f2f2;
+    width: 100%;
+    border:0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing:border-box;
+    font-size:14px;
+}
+.form button{
+    font-family: "Roboto",sans-serif;
+    text-transform: uppercase;
+    outline:0;
+    background:#4CAF50;
+    width:100%;
+    border: 0;
+    padding:15px;
+    color:#FFFFFF;
+    font-size:14px;
+    cursor:pointer;
+}
+p{
+    cursor:pointer;
+}
