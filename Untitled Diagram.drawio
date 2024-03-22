@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net" modified="2024-03-22T15:25:28.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jF7i1Dk67Y_kVBXrBnG0" version="24.0.7" type="google">
+  <diagram name="Page-1" id="KG6sCWDteXSJKbHWhzLf">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="32XdcZZ-85kI_oTXZAaL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="32XdcZZ-85kI_oTXZAaL-1" target="32XdcZZ-85kI_oTXZAaL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32XdcZZ-85kI_oTXZAaL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="32XdcZZ-85kI_oTXZAaL-1" target="32XdcZZ-85kI_oTXZAaL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32XdcZZ-85kI_oTXZAaL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="32XdcZZ-85kI_oTXZAaL-1" target="32XdcZZ-85kI_oTXZAaL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32XdcZZ-85kI_oTXZAaL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="32XdcZZ-85kI_oTXZAaL-1" target="32XdcZZ-85kI_oTXZAaL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32XdcZZ-85kI_oTXZAaL-1" value="Recipe Sharing&amp;nbsp;&lt;div&gt;WEBSITE&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="260" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="32XdcZZ-85kI_oTXZAaL-2" value="Home page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="32XdcZZ-85kI_oTXZAaL-3" value="Login page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="32XdcZZ-85kI_oTXZAaL-4" value="Reciepe Sharing&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="32XdcZZ-85kI_oTXZAaL-5" value="Help&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
