@@ -1,0 +1,29 @@
+
+.help-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+  
+.help-page h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.help-page ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+.help-page li {
+    margin-bottom: 10px;
+}
+.help-page p {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.help-page h3{
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
